@@ -29,10 +29,10 @@
 <br>
 <br>
 
-| ![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseAMercadoV&show_icons=true&theme=codeSTACKr) | ![Jose Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseAMercadoV&theme=codeSTACKr) |
+| ![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseAMercadoV&show_icons=true&theme=midnight-purple) | ![Jose Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseAMercadoV&theme=midnight-purple) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAMercadoV&theme=codeSTACKr) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=JoseAMercadoV&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=codeSTACKr) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAMercadoV&theme=midnight-purple) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=JoseAMercadoV&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=midnight-purple) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=codeSTACKr)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=midnight-purple)
 
 <br>
