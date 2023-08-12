@@ -1,11 +1,11 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> GAY++ <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 
 [![Github](https://img.shields.io/github/followers/JoseAMercadoV?label=Follow&style=social)](https://github.com/JoseAMercadoV)
 
-<div size='300px'> HI, I'M LAMMER
+<div size='300px'> FULL-STACK LAMMER
 </div>
 
 <h2> About me </h2>
